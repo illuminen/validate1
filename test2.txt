@@ -3,3 +3,7 @@
 3 --> git commit -m "created text.txt"
 check git status
 4 --> git push origin main
+
+----------------------------------------------
+from git to local 
+1 --> git pull
