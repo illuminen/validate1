@@ -8,3 +8,15 @@ check git status
 
 from git to local 
 1 --> git pull
+
+----------------------------------------------
+
+to add more file to stage
+
+1 --> git add .
+
+----------------------------------------------
+
+if we create git repository from local and then move to git 
+
+1 --> git remote add origin https://github.com/illuminen/validate1.git
